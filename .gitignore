@@ -1,2 +1,5 @@
 lib*
-share*
+cuda/share
+.gitignore
+.git
+.Dockerfile
