@@ -2,4 +2,4 @@ lib*
 cuda/share
 .gitignore
 .git
-.Dockerfile
+Dockerfile
